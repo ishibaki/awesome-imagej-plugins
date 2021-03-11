@@ -23,6 +23,7 @@ Your contributions are always welcome!
 
 - [deepImageJ](https://deepimagej.github.io/deepimagej/) - Pre-trained deep learning models to detect various cells.
 - [TrackMate](https://imagej.net/TrackMate) - GUI-based particle tracker.
+- [TraJClassifier](https://imagej.net/TraJClassifier) - Classifier of TrackMate trajectories.
 
 ## Transformation
 
