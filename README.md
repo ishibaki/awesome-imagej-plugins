@@ -20,5 +20,6 @@ Your contributions are always welcome!
 
 ## Transformation
 
+- [Linear Stack Alignment with SIFT](https://imagej.net/Linear_Stack_Alignment_with_SIFT) - Plugin to align stacking-image with SIFT-algorithm.
 
 <!-- vim: set foldmethod=marker : -->
