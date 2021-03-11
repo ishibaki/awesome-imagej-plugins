@@ -13,12 +13,15 @@ Your contributions are always welcome!
 
 ## Resolution
 
+- [deepImageJ](https://deepimagej.github.io/deepimagej/) - Pre-trained deep learning models to transform input images into super-resolved ones.
+
 ## Stacking
 
 - [Z-stack Depth Colorcode](https://github.com/ekatrukha/ZstackDepthColorCode) - Plugin color-coding Z/T stacks.
 
 ## Tracking
 
+- [deepImageJ](https://deepimagej.github.io/deepimagej/) - Pre-trained deep learning models to detect various cells.
 - [TrackMate](https://imagej.net/TrackMate) - GUI-based particle tracker.
 
 ## Transformation
