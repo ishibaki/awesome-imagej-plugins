@@ -6,9 +6,12 @@ A curated list of awesome ImageJ plugins for biologists.
 Your contributions are always welcome!
 
 - [Awesome ImageJ Plugins](#awesome-imagej-plugins)
+  - [Resolution](#resolution)
   - [Stacking](#stacking)
   - [Tracking](#tracking)
   - [Transformation](#transformation)
+
+## Resolution
 
 ## Stacking
 
