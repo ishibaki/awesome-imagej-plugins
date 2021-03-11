@@ -6,15 +6,16 @@ A curated list of awesome ImageJ plugins for biologists.
 Your contributions are always welcome!
 
 - [Awesome ImageJ Plugins](#awesome-imagej-plugins)
-  - [Tracking](#tracking)
   - [Stacking](#stacking)
+  - [Tracking](#tracking)
+## Stacking
+
+- [Z-stack Depth Colorcode](https://github.com/ekatrukha/ZstackDepthColorCode) - Plugin color-coding Z/T stacks.
 
 ## Tracking
 
 - [TrackMate](https://imagej.net/TrackMate) - GUI-based particle tracker.
 
-## Stacking
 
-- [Z-stack Depth Colorcode](https://github.com/ekatrukha/ZstackDepthColorCode) - Plugin olor-coding Z/T stacks.
 
 <!-- vim: set foldmethod=marker : -->
