@@ -33,6 +33,6 @@ Your contributions are always welcome!
 ## Transformation
 
 - [Linear Stack Alignment with SIFT](https://imagej.net/Linear_Stack_Alignment_with_SIFT) - Plugin to align stacking-image with SIFT-algorithm.  
-  <img src="https://i.gyazo.com/fe391b68118f214a76f831b7082ead10.gif" width=250/>
+  <img src="https://i.gyazo.com/a45920e0b62440971acb6ad4864959eb.gif" width=250/>
 
 <!-- vim: set foldmethod=marker : -->
