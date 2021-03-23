@@ -6,10 +6,16 @@ A curated list of awesome ImageJ plugins for biologists.
 Your contributions are always welcome!
 
 - [Awesome ImageJ Plugins](#awesome-imagej-plugins)
+  - [Detection](#detection)
   - [Resolution](#resolution)
   - [Stacking](#stacking)
   - [Tracking](#tracking)
   - [Transformation](#transformation)
+
+## Detection
+
+- [CurveTrace](https://github.com/ekatrukha/CurveTrace) - Extractor tracing curves on images.  
+  <img src="https://camo.githubusercontent.com/4dcc3416869289772a9c94b7409984be96e6a1dd9fa7ef43c60af03eaf1561ca/687474703a2f2f6b6174707978612e696e666f2f736f6674776172652f437572766554726163652f437572766554726163655f6c6f676f2e706e67" width=250/>
 
 ## Resolution
 
