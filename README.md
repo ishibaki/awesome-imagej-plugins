@@ -6,6 +6,7 @@ A curated list of awesome ImageJ plugins for biologists.
 Your contributions are always welcome!
 
 - [Awesome ImageJ Plugins](#awesome-imagej-plugins)
+  - [Analysis](#analysis)
   - [Detection](#detection)
   - [GUI tools](#gui-tools)
   - [Paper writing](#paper-writing)
@@ -13,6 +14,11 @@ Your contributions are always welcome!
   - [Stacking](#stacking)
   - [Tracking](#tracking)
   - [Transformation](#transformation)
+
+## Analysis
+
+- [OrientationJ](https://i.gyazo.com/74a7533d650e2d90c0a5d3a4e96d6857.png) - Directional Analyzer.  
+  <img src="https://i.gyazo.com/74a7533d650e2d90c0a5d3a4e96d6857.png" width=250/>
 
 ## Detection
 
