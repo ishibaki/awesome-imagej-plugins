@@ -17,6 +17,8 @@ Your contributions are always welcome!
 
 - [CurveTrace](https://github.com/ekatrukha/CurveTrace) - Extractor tracing curves on images.  
   <img src="https://camo.githubusercontent.com/4dcc3416869289772a9c94b7409984be96e6a1dd9fa7ef43c60af03eaf1561ca/687474703a2f2f6b6174707978612e696e666f2f736f6674776172652f437572766554726163652f437572766554726163655f6c6f676f2e706e67" width=250/>
+- [deepImageJ](https://deepimagej.github.io/deepimagej/) - Pre-trained deep learning models to detect various cells.  
+  <img src="https://i.gyazo.com/7646f800712f13ce016e9b5b2c96ced0.png" width=250/>
 
 ## Paper writing
 
@@ -35,8 +37,6 @@ Your contributions are always welcome!
 
 ## Tracking
 
-- [deepImageJ](https://deepimagej.github.io/deepimagej/) - Pre-trained deep learning models to detect various cells.  
-  <img src="https://i.gyazo.com/7646f800712f13ce016e9b5b2c96ced0.png" width=250/>
 - [TrackMate](https://imagej.net/TrackMate) - GUI-based particle tracker.  
   <img src="https://i.gyazo.com/946c5c857f2f36cead29ea98c5a12efd.png" width=250/>
 - [TraJClassifier](https://imagej.net/TraJClassifier) - Classifier of TrackMate trajectories.  
