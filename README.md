@@ -44,6 +44,8 @@ Your contributions are always welcome!
 
 ## Stacking
 
+- [Extended Depth of Field](http://bigwww.epfl.ch/demo/edf/) - Plugin to merge a stack of micrographs taken at different focal positions into a single focused image  
+  <img src="http://bigwww.epfl.ch/demo/edf/edf_illustration_fly.jpg" width=250/>
 - [Z-stack Depth Colorcode](https://github.com/ekatrukha/ZstackDepthColorCode) - Plugin color-coding Z/T stacks.  
   <img src="https://camo.githubusercontent.com/e3943982d426bd6f31a0ccebbb8b0363ec59411b5adc86e5f37f53fd9b2e35b7/687474703a2f2f6b6174707978612e696e666f2f736f6674776172652f5a737461636b4465707468436f6c6f72436f64652f45425f636f6c6f7265645f746865726d616c2e676966" width=250/>
 
