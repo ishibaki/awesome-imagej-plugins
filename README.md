@@ -60,5 +60,7 @@ Your contributions are always welcome!
 
 - [Linear Stack Alignment with SIFT](https://imagej.net/Linear_Stack_Alignment_with_SIFT) - Plugin to align stacking-image with SIFT-algorithm.  
   <img src="https://i.gyazo.com/a45920e0b62440971acb6ad4864959eb.gif" width=250/>
+- [Polar Transformer](https://imagej.nih.gov/ij/plugins/polar-transformer.html) - Plugin which converts images to polar coordinates.  
+  <img src="https://i.gyazo.com/59551b9f4d02bccc284182c86766c4e3.png" width=250/>
 
 <!-- vim: set foldmethod=marker : -->
