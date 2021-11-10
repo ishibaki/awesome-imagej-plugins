@@ -54,7 +54,7 @@ Your contributions are always welcome!
 - [TrackMate](https://imagej.net/TrackMate) - GUI-based particle tracker.  
   <img src="https://i.gyazo.com/946c5c857f2f36cead29ea98c5a12efd.png" width=250/>
 - [TraJClassifier](https://imagej.net/TraJClassifier) - Classifier of TrackMate trajectories.  
-  <img src="https://imagej.net/_images/1/1a/Journal.pone.0170165.g006.PNG" width=250/>
+  <img src="https://i.gyazo.com/e793c3e9eaad1a8f8c1fe48dfbdbc40c.png" width=250/>
 
 ## Transformation
 
